@@ -1,0 +1,26 @@
+--------------------------------info[12:54:38]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.20 - 2021/07/07
+
+ 
+--------------------------------已取消一个任务。[12:58:16]--------------------------------
+System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 v2rayN.Handler.UpdateHandle.<CheckUpdateAsync>d__17.MoveNext()
+
+ 
+--------------------------------已取消一个任务。[12:59:37]--------------------------------
+System.Threading.Tasks.TaskCanceledException: 已取消一个任务。
+   在 System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   在 System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   在 v2rayN.Handler.UpdateHandle.<CheckUpdateAsync>d__17.MoveNext()
+
+ 
+--------------------------------info[13:07:06]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.20 - 2021/07/07
+
+ 
+--------------------------------info[13:07:23]--------------------------------
+System.Exception: v2rayN start up v2rayN - V4.20 - 2021/07/07
+
+ 
